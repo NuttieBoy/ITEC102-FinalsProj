@@ -1,7 +1,7 @@
 # Basic Operators +,-,*,/,//,%,**
-x = a / b
 a = 20
 b = 15
+x = a / b
 print (x)
 z = a * b
 print (z)
