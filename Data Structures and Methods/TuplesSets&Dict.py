@@ -66,9 +66,7 @@ print(set1 - set2) #Output: {1, 2}
 
 #<--- Creating a Dictionary --->
 
-#Syntax: dictionary = {
-    "key": value
-}
+#Syntax: dictionary = {"key": value}
 
 #Example: 
 student = {
