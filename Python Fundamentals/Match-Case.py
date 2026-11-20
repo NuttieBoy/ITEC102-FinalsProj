@@ -10,3 +10,4 @@ match grade:
         print("Failed.")
     case _:
         print("Invalid grade.")
+# Output Failed
