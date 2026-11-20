@@ -1,5 +1,3 @@
-# Formula: [expression for item in iterable if condition]
-# ================================================
 
 # 1. Capitalizing -> Transforms every string in a list
 fruits = ["apple", "banana", "mango"]          # Original list of lowercase strings
